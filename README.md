@@ -12,6 +12,8 @@ And all of them can be found on my profile page !
 If you want to contact me, here are some informations :
 
 email : lewis.brochard@gmail.com
+
 phone : +33 6 40 45 16 43
+
 linkedin : [linkedin.com/in/louis-brochard-82926a130](linkedin.com/in/louis-brochard-82926a130)
 
