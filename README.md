@@ -6,14 +6,14 @@ I'm a french student in computer sciences at YNOV (2nd Year 👨‍💻) in the 
 
 I really like music 🎵 : listening to it, playing it, and composing some ! (🎸🎹)
 
-I also like video games (like everybody I guess...), and I'm curently working on one with my friends  !
+I also like video game 🎮 (like everybody I guess...), and I'm curently working on one with my friends  !
 
-I did a lot of projects for school, helped with some fantastic peoples. 
+I did a lot of projects for school 📚 and for myself, helped with some fantastic peoples. 
 And all of them can be found on my profile page !
 
-If you want to contact me, here are some informations :
+If you want to contact me 📫, here are some informations :
 
-- email : lewis.brochard@gmail.com
-- phone : +33 6 40 45 16 43
-- linkedin : [linkedin.com/in/louis-brochard-82926a130](https://linkedin.com/in/louis-brochard-82926a130)
+- 📧 email : lewis.brochard@gmail.com
+- 📞 phone : +33 6 40 45 16 43
+- 👔 linkedin : [linkedin.com/in/louis-brochard-82926a130](https://linkedin.com/in/louis-brochard-82926a130)
 
