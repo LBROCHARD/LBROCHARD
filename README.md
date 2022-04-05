@@ -11,6 +11,9 @@ I also like video game 🎮 (like everybody I guess...), and I'm curently workin
 I did a lot of projects for school 📚 and for myself, helped with some fantastic peoples. 
 And all of them can be found on my profile page !
 
+Here is my [resume](https://github.com/LBROCHARD/LBROCHARD/blob/main/cv%202%20(JV2).png) if you are interested. 
+
+
 If you want to contact me 📫, here are some informations :
 
 - 📧 email : lewis.brochard@gmail.com
