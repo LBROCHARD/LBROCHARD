@@ -2,4 +2,4 @@ Lien vers <a href="https://chav.itch.io/online-cv-louis-brochard">le CV jeu vid�
 
 Pour avoir accès aux autres liens, vous pouvez télécharger <a href="https://github.com/LBROCHARD/LBROCHARD/blob/main/CV%20Louis%20Brochard.png">la version pdf</a>.
 
-<img src="https://github.com/LBROCHARD/LBROCHARD/blob/main/CV%20Louis%20Brochard.png" >
+<img src="https://github.com/LBROCHARD/LBROCHARD/blob/main/CV%20Louis%20Brochard.pdf" >
