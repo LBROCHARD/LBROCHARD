@@ -11,4 +11,4 @@ I have a **Master Degree** in **fullstack web** and **desktop/mobile** defvelopm
 
 I did a lot of personal project as well as school projects, and many of them can be found on my profile page, so if you're interested, go check them out !
 
-Here is my [resume](https://github.com/LBROCHARD/LBROCHARD/blob/main/resume.pdf) (in french, and a bit outdated) if you are interested. 
+Here is my [resume](https://github.com/LBROCHARD/LBROCHARD/blob/main/Resume.pdf) (in french, and a bit outdated) if you are interested. 
