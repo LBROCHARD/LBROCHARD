@@ -1,6 +1,6 @@
 ### Hi ! 👋
 
-I'm **Louis**, a french video game developper !
+I'm **Louis**, a game developper from france !
 
 I'm currently looking for a Job in Game Programming 🕹️ (Unity, Godot, Unreal Engine).
 
