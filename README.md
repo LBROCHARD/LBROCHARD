@@ -9,7 +9,7 @@ I worked a lot on implementing **multiplayer** in many Unity or Godot projects (
 I have been using **Blender** for many years now and I am currently playing around with C++ and Vulkan, as well as Unreal Engine.
 I have a **Master Degree** in **fullstack web** and **desktop/mobile** defvelopment. I also worked for 6 months developping websites in **React** (**Typescript**) and **Nest.JS**.
 
-I did a lot of personal project as well as school projects, and many of them can be found on my profile page, so if you're interested, go check them out !
+I did a lot of personal project as well as school projects, some of them can be found on my profile page, but most of them are disponible on my [portfolio](https://portfolio-obsh.onrender.com/) so if you're interested, go check them out !
 
 
-Here is my [portfolio](https://portfolio-obsh.onrender.com/) and my [resume](https://github.com/LBROCHARD/LBROCHARD/blob/main/Resume.pdf) if you are interested. 
+Also, here's link to my [portfolio](https://portfolio-obsh.onrender.com/) and my [resume](https://github.com/LBROCHARD/LBROCHARD/blob/main/Resume.pdf). 
